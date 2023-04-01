@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="error_try_again">Error, Try again!</string>
+    <string name="city_name">City Name</string>
+    <string name="search_icon">Search icon</string>
+    <string name="test">test</string>
+    <string name="city_code">CITY CODE</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="data1">:data1</string>
+    <string name="data2">:data2</string>
+    <string name="data3">:data3</string>
+    <string name="data4">:data4</string>
+    <string name="visibility">Visibility</string>
+    <string name="data0">data0</string>
+    <string name="data5">:data5</string>
+    <string name="feels_like">Feels Like</string>
+
+</resources>
